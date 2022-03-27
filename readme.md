@@ -1,3 +1,3 @@
 # 8A8K-LIDAR
 
-已完成两个单片机多机通信，但暂无联网功能
+The communication between two single-chip computers has been completed, but there is no networking function
